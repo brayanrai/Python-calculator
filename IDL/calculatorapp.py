@@ -70,16 +70,5 @@ clear=Button(root,text="C",padx=70,pady=20,bg="pink",command=button_clear).grid(
 minus=Button(root,text="-",padx=33,pady=20,bg="pink",command=subtraction).grid(row=6,column=0)
 division=Button(root,text="/",padx=32,pady=20,bg="pink",command=division).grid(row=4,column=1)
 multiply=Button(root,text="*",padx=32,pady=20,bg="pink",command=multiplication).grid(row=4,column=2)
-#allclear=Button(root,text="/",padx=30,pady=30).grid(row=0,column=3)
-
-
-#minus=Button(root,text="*",padx=30,pady=30).grid(row=0,column=4)
-#minus=Button(root,text="-",padx=30,pady=30).grid(row=1,column=4)
-#minus=Button(root,text="+-",padx=30,pady=30).grid(row=3,column=4)
-
-
-#cal=Button(root,text="cal",padx=20,pady=20,state="disable").grid(row=4,column=1)
-
-                                                     
 
 
