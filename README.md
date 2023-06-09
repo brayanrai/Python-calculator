@@ -5,4 +5,7 @@ Python project basic calculator to perform basic functionalities or some mathema
 Requirements:
 1. Python IDE
 2. Install required libraries
-- pip install tkinter
+pip install tkinter
+
+#if your pip is not updated try below command
+**python -m pip install --upgrade pip**
